@@ -1,0 +1,18 @@
+.component-container{
+	height: 300px;
+	width: 100%;
+	background: black;
+	display: none;
+	color: white;
+}
+.app{
+	display: none;
+}
+.section {
+	border: 1px solid black;
+	background: #eee;
+}
+
+.add-section-container {
+	height: 50px;
+}
